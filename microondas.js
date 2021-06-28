@@ -108,4 +108,25 @@ let microondas = (receita, tempo) => {
 
 microondas(6, 20);
 
+// testes
 
+// microondas(1, 2);
+// microondas(1, 15);
+// microondas(1, 25);
+// microondas(1, 35);
+// microondas(2, 2);
+// microondas(2, 15);
+// microondas(2, 25);
+// microondas(2, 35);
+// microondas(3, 10);
+// microondas(3, 25);
+// microondas(3, 35);
+// microondas(3, 47);
+// microondas(4, 2);
+// microondas(4, 15);
+// microondas(4, 25);
+// microondas(4, 35);
+// microondas(5, 2);
+// microondas(5, 15);
+// microondas(5, 20);
+// microondas(5, 35);
